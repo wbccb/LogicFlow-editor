@@ -9,14 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47",
-    "@logicflow/core": "^1.2.8",
-    "@logicflow/extension": "^1.2.8"
+    "@logicflow/core": "1.2.8",
+    "@logicflow/extension": "1.2.8",
+    "vue": "3.3.4",
+    "vue-router": "4.2.2",
+    "element-plus": "2.3.6"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.1.0",
-    "typescript": "^5.0.2",
-    "vite": "^4.3.9",
-    "vue-tsc": "^1.4.2"
+    "@vitejs/plugin-vue": "4.1.0",
+    "typescript": "5.0.2",
+    "vite": "4.3.9",
+    "vue-tsc": "1.4.2",
+    "prettier": "2.8.8"
   }
 }

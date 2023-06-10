@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div>
+    我是Location
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import {defineComponent} from "vue";
 
 export default defineComponent({
-  name: 'App',
+  name: "",
   props: {},
   setup() {
     return {};

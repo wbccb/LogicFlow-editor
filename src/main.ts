@@ -1,5 +1,7 @@
 import {createApp} from "vue";
 import "./styles/index.scss";
+import "@logicflow/core/dist/style/index.css";
+import "@logicflow/extension/lib/style/index.css";
 import App from "./App.vue";
 import router from "./router";
 import ElementPlus from "element-plus";

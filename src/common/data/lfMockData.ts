@@ -3,14 +3,14 @@ const mockData = {
     {
       id: "21",
       type: "rect",
-      x: 100,
+      x: 300,
       y: 200,
       text: "rect node",
     },
     {
       id: "50",
       type: "circle",
-      x: 300,
+      x: 500,
       y: 400,
       text: "circle node",
     },
